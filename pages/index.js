@@ -26,6 +26,7 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+<<<<<<< HEAD
         <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   
 
@@ -58,6 +59,8 @@ font-size:clamp(1.2rem, -0.5vw + 1.3rem, 1rem)!important;">Founded in 2016 by Si
   </div>
   </main>
 </div>
+=======
+>>>>>>> parent of 147a73c (cxxcxxc)
       </main>
 
       <Footer />
