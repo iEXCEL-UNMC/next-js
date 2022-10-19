@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        © 2022, Board of Regents of the University of Nebraska. All rights reserved.
+        <p class="footer-text">© 2022, Board of Regents of the University of Nebraska. All rights reserved.</p>
       </footer>
     </>
   )
